@@ -163,3 +163,15 @@ footer{
 .contact-info{
   flex: 1;
 }
+
+.extra-title{
+  margin-bottom: 0px;
+}
+.discription > p{
+  padding: 0px 150px 0px 150px;
+  text-align: justify;
+}
+.container > img{
+  width: 1270px;
+  height: 300px;
+}
